@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 248f7e4f-c32c-4690-9581-137f83df4884
 resourcetype: Document
 title: experiment_12.pdf
 uid: dcc8d67b-59d1-de07-8f56-331af0dda027
