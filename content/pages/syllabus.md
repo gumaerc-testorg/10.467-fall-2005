@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section describes about the student attendence, References and Grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 681d08af-a873-a051-5fc2-b8e3d5f3ba21
 ---
