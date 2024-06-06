@@ -4,6 +4,7 @@ description: This resource gives details about the Aim, Appratus, Material and B
   Background about the lab experience on the topic Bead Polymerization of Divinyl
   Benzene and Methyl Methacrylate.
 file: /courses/10-467-polymer-science-laboratory-fall-2005/d37fdb110974c49b564f6b2abb115424_experiment_13.pdf
+file_size: 84363
 file_type: application/pdf
 learning_resource_types:
 - Labs
