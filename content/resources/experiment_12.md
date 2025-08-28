@@ -3,11 +3,11 @@ content_type: resource
 description: This resource gives details about the Aim, Material, Appratus and Brief
   Background on the lab experiment on the topic Network formation with Epoxies, RTV
   Thermosets and Foamable Polyurethanes.
-file: /courses/10-467-polymer-science-laboratory-fall-2005/dcc8d67b59d1de078f56331af0dda027_experiment_12.pdf
+file: /ol-ocw-studio-app/courses/10-467-polymer-science-laboratory-fall-2005/dcc8d67b59d1de078f56331af0dda027_experiment_12.pdf
 file_size: 78621
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

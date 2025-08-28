@@ -3,7 +3,7 @@ content_type: page
 description: This section gives details about the labs, topics and their procedure
   which is a linked file.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 248f7e4f-c32c-4690-9581-137f83df4884
