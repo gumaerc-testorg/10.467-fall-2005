@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Lab instructions.
-file: /courses/10-467-polymer-science-laboratory-fall-2005/f26d6cfc67ca6eae81bd419df3511888_experiment_11.pdf
+file: /ol-ocw-studio-app/courses/10-467-polymer-science-laboratory-fall-2005/f26d6cfc67ca6eae81bd419df3511888_experiment_11.pdf
 file_size: 62659
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
